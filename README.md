@@ -46,7 +46,7 @@ The project provides hospital administrators with insights into admissions, pati
 
 Download the Power BI report here:
 
-[Hospital Operational Intelligence Platform.pbix](Dashboard/Hospital Operational Intelligence Platform.pbix)
+[Hospital_Operational_Intelligence_Platform.pbix](Dashboard/Hospital_Operational_Intelligence_Platform.pbix)
 
 ## Dataset
 
