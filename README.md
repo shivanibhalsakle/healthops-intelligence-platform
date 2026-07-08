@@ -1,4 +1,6 @@
 # HealthOps Intelligence Platform
+*This project demonstrates data modeling, ETL with Power Query, DAX, and interactive dashboard development in Power BI.*
+
 
 ## Dashboard
 
@@ -6,9 +8,19 @@
 
 ## Overview
 
-HealthOps Intelligence Platform is an end-to-end healthcare analytics solution designed to help hospital administrators and operations teams improve decision-making through data-driven insights.
+HealthOps Intelligence Platform is an interactive healthcare analytics dashboard built using the MIMIC-IV Demo dataset. It designed to help hospital administrators and operations teams improve decision-making through data-driven insights.
 
-The platform integrates data engineering, predictive analytics, optimization, and interactive business intelligence dashboards to monitor hospital operations, predict patient readmissions, optimize staffing, and improve resource utilization.
+The project provides hospital administrators with insights into admissions, patient flow, length of stay, ICU utilization, mortality, and clinical operations.
+
+## Features
+
+- KPI cards
+- Admission source and admission type analysis
+- Length of Stay (LOS) analysis
+- ICU admission and mortality metrics
+- Interactive slicers and cross-filtering
+- Drill-through enabled reporting
+
 
 ## Project Goals
 
@@ -21,19 +33,26 @@ The platform integrates data engineering, predictive analytics, optimization, an
 
 ## Technology Stack
 
-- Python
-- SQL
-- PostgreSQL
-- Power BI
-- Gurobi Optimizer
+- Microsoft Power BI
+- Power Query
+- DAX
 - Git & GitHub
 
 ## Dashboard Screenshot
 
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
 
-## Dashboard Demo
+## Download Power BI Report
 
-![Dashboard Demo](images/dashboard_demo.gif)
+Download the Power BI report here:
+
+[Hospital Operational Intelligence Platform.pbix](Dashboard/Hospital Operational Intelligence Platform.pbix)
+
+## Dataset
+
+The dashboard is built using the **MIMIC-IV Demo Dataset** from PhysioNet.
+
+- Sample dataset included in the `Dataset` folder
+- Original dataset: [https://physionet.org/content/mimic-iv-demo/2.2/](https://physionet.org/content/mimic-iv-demo/2.2/)
 
 > 🚧 This project is currently under active development.
