@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](images/dashboard_demo.gif)
 
 ## Overview
 
@@ -27,6 +27,10 @@ The platform integrates data engineering, predictive analytics, optimization, an
 - Power BI
 - Gurobi Optimizer
 - Git & GitHub
+
+## Dashboard Screenshot
+
+![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ## Dashboard Demo
 
