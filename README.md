@@ -1,5 +1,9 @@
 # HealthOps Intelligence Platform
 
+## Dashboard
+
+![Dashboard](images/dashboard_demo.gif)
+
 ## Overview
 
 HealthOps Intelligence Platform is an end-to-end healthcare analytics solution designed to help hospital administrators and operations teams improve decision-making through data-driven insights.
@@ -23,6 +27,10 @@ The platform integrates data engineering, predictive analytics, optimization, an
 - Power BI
 - Gurobi Optimizer
 - Git & GitHub
+
+## Dashboard Screenshot
+
+![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ## Dashboard Demo
 
