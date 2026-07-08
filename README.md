@@ -1,5 +1,9 @@
 # HealthOps Intelligence Platform
 
+## Dashboard
+
+![Dashboard](images/dashboard_screenshot.png)
+
 ## Overview
 
 HealthOps Intelligence Platform is an end-to-end healthcare analytics solution designed to help hospital administrators and operations teams improve decision-making through data-driven insights.
