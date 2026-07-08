@@ -24,4 +24,8 @@ The platform integrates data engineering, predictive analytics, optimization, an
 - Gurobi Optimizer
 - Git & GitHub
 
+## Dashboard Demo
+
+![Dashboard Demo](images/dashboard_demo.gif)
+
 > 🚧 This project is currently under active development.
