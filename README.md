@@ -46,13 +46,13 @@ The project provides hospital administrators with insights into admissions, pati
 
 Download the Power BI report here:
 
-[Hospital_Operational_Intelligence_Platform.pbix](Dashboard/Hospital_Operational_Intelligence_Platform.pbix)
+[Download the Power BI Report (.pbix)](https://github.com/shivanibhalsakle/healthops-intelligence-platform/releases/tag/v2.0)
 
 ## Dataset
 
-The dashboard is built using the **MIMIC-IV Demo Dataset** from PhysioNet.
+This project uses the **full MIMIC-IV v3.1** clinical database published by PhysioNet.
+
+Due to licensing restrictions, the full dataset is **not included** in this repository.
 
 - Sample dataset included in the `Dataset` folder
 - Original dataset: [https://physionet.org/content/mimic-iv-demo/2.2/](https://physionet.org/content/mimic-iv-demo/2.2/)
-
-> 🚧 This project is currently under active development.
